@@ -2,17 +2,19 @@
 <img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, nice to see you 💻</h1>
 <p>Front-End Developer, Self-taught learning lover. With experience in project management. Faithful believer that every problem has a solution if you attack it in the right way.</p>
 <br/>
-<p align="center">
-  <a href="https://twitter.com/LeoBotache7" target="_blank">
+<p align="center"  >
+  <a href="https://twitter.com/LeoBotache7" target="_blank" style="margin-right:10px">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/leo-rincon/" target="_blank">
+  <a href="https://www.linkedin.com/in/leo-rincon/" target="_blank"
+  style="margin-right:10px">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/leobotache7/" target="_blank">
+  <a href="https://www.instagram.com/leobotache7/" target="_blank"
+  style="margin-right:10px">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://platzi.com/@jleobotache/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" />
+  <a href="https://platzi.com/@jleobotache/" style="margin-right:10px"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" />
   </a>
 </p>
 

@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LeoRincon.LeoRincon)
+
 <h1 align="center">Hey
 <img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, nice to see you 💻</h1>
 <p>Front-End Developer, Self-taught learning lover. With experience in project management. Faithful believer that every problem has a solution if you attack it in the right way.</p>
@@ -28,7 +30,11 @@
 
 ![Google Chrome](https://img.shields.io/badge/_-GoogleChrome-292e33?style=flat-square&logo=Google-Chrome&logoColor=fff)
 ![Firefox Browser](https://img.shields.io/badge/_-Firefox-292e33?style=flat-square&logo=firefox-browser&logoColor=fff)
-![Brave](https://img.shields.io/badge/_-Brave-292e33?style=flat-square&logo=brave&logoColor=fff)
+![Microsoft Edge](https://img.shields.io/badge/_-MicrosoftEdge-292e33?style=flat-square&logo=microsoftedge&logoColor=fff)
+
+![Postman](https://img.shields.io/badge/_-Postman-292e33?style=flat-square&logo=postman&logoColor=fff)
+
+![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=figma&logoColor=fff)
 
 ---
 
@@ -37,16 +43,21 @@
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
+![Bitbucket](https://img.shields.io/badge/_-Bitbucket-292e33?style=flat-square&logo=bitbucket)
 
 ![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/_-Less-292e33?style=flat-square&logo=less&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/_-Tailwind-292e33?style=flat-square&logo=tailwind-css)
 
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/_-TypeScript-292e33?style=flat-square&logo=typescript&logoColor=fff)
 
 ![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
+![npm](https://img.shields.io/badge/_-npm-292e33?style=flat-square&logo=npm&logoColor=fff)
 
 ---
 

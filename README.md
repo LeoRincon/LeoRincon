@@ -1,4 +1,4 @@
-[![GitHub Header LeoRincon](https://raw.githubusercontent.com/LeoRincon/LeoRincon/main/assets/leonardo.jpg)]
+![GitHub Header LeoRincon](https://raw.githubusercontent.com/LeoRincon/LeoRincon/main/assets/leonardo.jpg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LeoRincon.LeoRincon)
 

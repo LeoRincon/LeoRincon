@@ -21,6 +21,9 @@
   <a href="https://platzi.com/@jleobotache/" style="margin-right:10px"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" />
   </a>
 </p>
+<br/>
+<h4><strong>Contacto:</strong> <a href="mailto:jleobotache@gmail.com">jleobotache@gmail.com</a></h4>
+<br/>
 
 ---
 

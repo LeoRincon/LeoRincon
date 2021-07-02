@@ -38,6 +38,7 @@
 ![Microsoft Edge](https://img.shields.io/badge/_-MicrosoftEdge-292e33?style=flat-square&logo=microsoftedge&logoColor=fff)
 
 ![Postman](https://img.shields.io/badge/_-Postman-292e33?style=flat-square&logo=postman&logoColor=fff)
+![RunJS](https://img.shields.io/badge/_-RunJS-292e33?style=flat-square&logo=javascript&logoColor=fff)
 
 ![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=figma&logoColor=fff)
 
@@ -58,8 +59,10 @@
 ![Tailwind](https://img.shields.io/badge/_-Tailwind-292e33?style=flat-square&logo=tailwind-css)
 
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
-![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/_-TypeScript-292e33?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
+![Jest](https://img.shields.io/badge/_-Jest-292e33?style=flat-square&logo=Jest&logoColor=fff)
+![React Testing Library](https://img.shields.io/badge/_-React_Testing_Library-292e33?style=flat-square&logo=testing-library&logoColor=fff)
 
 ![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
 ![npm](https://img.shields.io/badge/_-npm-292e33?style=flat-square&logo=npm&logoColor=fff)

@@ -4,7 +4,8 @@
 
 <h1 align="center">Hey
 <img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, nice to see you 💻</h1>
-<p>Front-End Developer, Self-taught learning lover. With experience in project management. Faithful believer that every problem has a solution if you attack it in the right way.</p>
+<p>Front-End JavaScript developer with experience in team leadership, project management and web application developer. For an unconditional love for communities and supporting the growth of the same.
+</p>
 <br/>
 <p align="center"  >
   <a href="https://twitter.com/LeoBotache7" target="_blank" style="margin-right:10px">

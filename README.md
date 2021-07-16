@@ -64,6 +64,8 @@
 ![Jest](https://img.shields.io/badge/_-Jest-292e33?style=flat-square&logo=Jest&logoColor=fff)
 ![React Testing Library](https://img.shields.io/badge/_-React_Testing_Library-292e33?style=flat-square&logo=testing-library&logoColor=fff)
 
+![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=fff)
+
 ![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
 ![npm](https://img.shields.io/badge/_-npm-292e33?style=flat-square&logo=npm&logoColor=fff)
 

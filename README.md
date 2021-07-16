@@ -69,13 +69,13 @@
 
 ---
 
-📌 Top Projects
-
-1️⃣ OpenContractMx <br />
+<h3>📌 Top Projects </h3>
+<br />
+<h4>1️⃣ OpenContractMx</h4>
 Is a project developed by Platzi Master Students in order to catch more than 350,000 public contracts published by the Government of Mexico and show them in a easy way for reporters, researchers and similars so they can get great information about how the goverment spents in the different areas <a href='https://opencontractmx.netlify.app/'>Link Public</a> --
 <a href='https://github.com/OpenContractMX/Frontend'>Link repository</a>
-
-2️⃣ CryptoTracker <br/>
+<br /><br />
+<h4>2️⃣ CryptoTracker</h4>
 Is a web application that you can use to keep track of your investments in cryptocurrency, we have elistadas the top 20 of the cryptos with the largest Market Cap. <a href='https://cryptotracker-master.netlify.app/'>Link Public</a> --
 <a href='https://github.com/CryptoTracker-Platzi-Master/Frontend'>Link repository</a>
 

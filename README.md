@@ -69,7 +69,7 @@
 
 ---
 
-📌 Top Projoects
+📌 Top Projects
 
 1️⃣ OpenContractMx <br />
 Is a project developed by Platzi Master Students in order to catch more than 350,000 public contracts published by the Government of Mexico and show them in a easy way for reporters, researchers and similars so they can get great information about how the goverment spents in the different areas <a href='https://opencontractmx.netlify.app/'>Link Public</a> --

@@ -3,8 +3,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LeoRincon.LeoRincon)
 
 <h1 align="center">Hey
-<img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, nice to see you 💻</h1>
-<p>Front-End Developer, Self-taught learning lover. With experience in project management. Faithful believer that every problem has a solution if you attack it in the right way.</p>
+<img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, love to have you here 💻</h1>
+<p>Front-End Developer in JavaScript, TypeScript, React.JS, HTML5, CSS3, Jest (Testing), Git, Sass with experience in team leadership, project management and web application developer. For an unconditional love for the communities and supporting the growth of the same.</p>
 <br/>
 <p align="center"  >
   <a href="https://twitter.com/LeoBotache7" target="_blank" style="margin-right:10px">
@@ -66,6 +66,18 @@
 
 ![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
 ![npm](https://img.shields.io/badge/_-npm-292e33?style=flat-square&logo=npm&logoColor=fff)
+
+---
+
+📌 Top Projoects
+
+1️⃣ OpenContractMx <br />
+Is a project developed by Platzi Master Students in order to catch more than 350,000 public contracts published by the Government of Mexico and show them in a easy way for reporters, researchers and similars so they can get great information about how the goverment spents in the different areas <a href='https://opencontractmx.netlify.app/'>Link Public</a> --
+<a href='https://github.com/OpenContractMX/Frontend'>Link repository</a>
+
+2️⃣ CryptoTracker <br/>
+Is a web application that you can use to keep track of your investments in cryptocurrency, we have elistadas the top 20 of the cryptos with the largest Market Cap. <a href='https://cryptotracker-master.netlify.app/'>Link Public</a> --
+<a href='https://github.com/CryptoTracker-Platzi-Master/Frontend'>Link repository</a>
 
 ---
 

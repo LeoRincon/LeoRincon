@@ -22,7 +22,7 @@
   </a>
 </p>
 <br/>
-<h4><strong>Contacto:</strong> <a href="mailto:jleobotache@gmail.com">jleobotache@gmail.com</a></h4>
+<h4><strong>Contacto:</strong> <a href="mailto:jleobotache@gmail.com">hi@leorincon.com</a></h4>
 <br/>
 
 ---

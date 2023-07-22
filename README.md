@@ -1,10 +1,11 @@
-![GitHub Header LeoRincon](https://raw.githubusercontent.com/LeoRincon/LeoRincon/main/assets/leonardo.jpg)
+<!-- ![GitHub Header LeoRincon](https://raw.githubusercontent.com/LeoRincon/LeoRincon/main/assets/leonardo.jpg) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LeoRincon.LeoRincon)
 
 <h1 align="center">Hey
 <img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, love to have you here 💻</h1>
-<p>Front-End Developer in JavaScript, TypeScript, React.JS, HTML5, CSS3, Jest (Testing), Git, Sass with experience in team leadership, project management and web application developer. For an unconditional love for the communities and supporting the growth of the same.</p>
+<p>Software Developer in JavaScript, TypeScript, ReactJS, NodeJS, VTEX IO, Jest (Testing), Git, HTML5, CSS3, and Sass. Experienced in web application development, creating e-commerce B2C and B2B with VTEX IO technologies, team leadership, and project management. With an unconditional love for communities and supporting their growth. 
+</p>
 <br/>
 <p align="center"  >
   <a href="https://twitter.com/LeoBotache7" target="_blank" style="margin-right:10px">
@@ -47,6 +48,17 @@
 <h3>💻 Stack & Skills</h3>
 <br/>
 
+![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/_-TypeScript-292e33?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/_-ReactJS-292e33?style=flat-square&logo=React&logoColor=fff)
+![Jest](https://img.shields.io/badge/_-Jest-292e33?style=flat-square&logo=Jest&logoColor=fff)
+![React Testing Library](https://img.shields.io/badge/_-React_Testing_Library-292e33?style=flat-square&logo=testing-library&logoColor=fff)
+
+![Node](https://img.shields.io/badge/_-Nodejs-292e33?style=flat-square&logo=Node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/_-Express-292e33?style=flat-square&logo=Express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff)
+![Jest](https://img.shields.io/badge/_-Jest-292e33?style=flat-square&logo=Jest&logoColor=fff)
+
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
 ![Bitbucket](https://img.shields.io/badge/_-Bitbucket-292e33?style=flat-square&logo=bitbucket)
@@ -57,12 +69,6 @@
 ![Less](https://img.shields.io/badge/_-Less-292e33?style=flat-square&logo=less&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/_-Tailwind-292e33?style=flat-square&logo=tailwind-css)
-
-![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/_-TypeScript-292e33?style=flat-square&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
-![Jest](https://img.shields.io/badge/_-Jest-292e33?style=flat-square&logo=Jest&logoColor=fff)
-![React Testing Library](https://img.shields.io/badge/_-React_Testing_Library-292e33?style=flat-square&logo=testing-library&logoColor=fff)
 
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=fff)
 

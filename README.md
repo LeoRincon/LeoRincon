@@ -15,10 +15,6 @@
   style="margin-right:10px">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/leobotache7/" target="_blank"
-  style="margin-right:10px">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
   <a href="https://platzi.com/@jleobotache/" style="margin-right:10px"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" />
   </a>
 </p>

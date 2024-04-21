@@ -11,7 +11,7 @@
   <a href="https://twitter.com/LeoBotache7" target="_blank" style="margin-right:10px">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/leo-rincon/" target="_blank"
+  <a href="https://www.linkedin.com/in/jorgeleonardorincon/" target="_blank"
   style="margin-right:10px">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>

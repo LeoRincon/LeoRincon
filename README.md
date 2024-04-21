@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey
 <img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, love to have you here 💻</h1>
-<p>Software Developer in JavaScript, TypeScript, ReactJS, NodeJS, VTEX IO, Jest (Testing), Git, HTML5, CSS3, and Sass. Experienced in web application development, creating e-commerce B2C and B2B with VTEX IO technologies, team leadership, and project management. With an unconditional love for communities and supporting their growth. 
+<p>I am a passionate software developer with extensive experience in creating robust and efficient technology solutions. My focus is on Front-End development, using technologies such as JavaScript, TypeScript, ReactJS, NextJs, NodeJS, VTEX B2B, and VTEX FastStore to drive exceptional and scalable user experiences.
 </p>
 <br/>
 <p align="center"  >
